@@ -20,7 +20,7 @@ public class Main {
         }
         if (a == true)
         {
-            System.out.println(str);
+            System.out.println("true");
         }
         else
         {
